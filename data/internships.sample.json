@@ -1,0 +1,11 @@
+[
+  {
+    "id": "int-001",
+    "name": "Example Software Internship",
+    "organization": "Sample Labs",
+    "location": "Remote",
+    "deadline": "2026-11-15",
+    "eligibility": ["undergraduate"],
+    "fields": ["software engineering"]
+  }
+]

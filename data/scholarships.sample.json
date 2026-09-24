@@ -1,0 +1,11 @@
+[
+  {
+    "id": "sch-001",
+    "name": "Example Merit Scholarship",
+    "provider": "Sample Foundation",
+    "amount_usd": 5000,
+    "deadline": "2026-12-01",
+    "eligibility": ["undergraduate", "GPA >= 3.0"],
+    "fields": ["computer science", "engineering"]
+  }
+]
